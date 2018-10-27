@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RaizCalculator</string>
+    <string name="ecuation">ax^2+bx+c=0</string>
+    <string name="a">a=</string>
+    <string name="b">b=</string>
+    <string name="c">c=</string>
+    <string name="btn_txt">CALCULAR</string>
+    <string name="x1">x1:=</string>
+    <string name="x2">x2:=</string>
+    <string name="blank"/>
+</resources>
